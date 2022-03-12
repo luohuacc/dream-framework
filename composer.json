@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "luohua/dream-container": "dev-master"
+        "luohua/dream-container": "dev-main"
     },
     "autoload": {
         "psr-4": {
