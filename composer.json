@@ -1,0 +1,18 @@
+{
+    "name": "luohua/dream-framework",
+    "description": "the dream Framework",
+    "authors": [
+        {
+            "name": "luohua",
+            "email": "1239614697@qq.com"
+        }
+    ],
+    "require": {
+        "luohua/dream-container": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dream\\FrameWork\\": "src/"
+        }
+    }
+}
